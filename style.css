@@ -50,9 +50,7 @@ p{
         justify-content: center;
         padding: 5rem;
         background-image: url(images/pattern-background-desktop.svg);
-        background-position: center;
         background-repeat: no-repeat;
-        background-size: auto;
         background-position: top;
         background-color: var(--PaleBlue);
     }
